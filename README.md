@@ -96,35 +96,34 @@ Books to Donate:
 7. In my Fathers court
 8. Backyard guide to the nightsky
 9. In my fathers court
-10. women who run with the wolves
-11. Letters to my Palestinian neighbor
-12. the magic of math
-13.  Anne Franke
-14. The hundred year's war on Palestine
-15.  The education of Hyman Kaplan
-16. A storm of swords
-17. 1984
-18. Ready player 2
-19. The elements of editing
-20. the two towers
-21. The hitchhikers guide to the galaxy (complete series)
-22. The Afgan Campaign
-23. Bride of new france
-24. ready player one
-25. idoits guides judaism
-26. Palestine peace not apartheid
-27. Jews dont count
-28. no-nonsense quantum mechanics
-29. a students guide to maxwell's equations
-30. Alexander, child of a dream
-31. Parallax
-32. The martian
-33. The bible 
-34. The crisis of zionism
-35.  How to avoid a climate disaster
-36.   Scyth
-37. Tarkin 
-38. We should all be feminists
-39. not a scientist
-40. Converting Jews to Chirst
-41. 
+10. Letters to my Palestinian neighbor
+11. the magic of math
+12.  Anne Franke
+13. The hundred year's war on Palestine
+14.  The education of Hyman Kaplan
+15. A storm of swords
+16. 1984
+17. Ready player 2
+18. The elements of editing
+19. the two towers
+20. The hitchhikers guide to the galaxy (complete series)
+21. The Afgan Campaign
+22. Bride of new france
+23. ready player one
+24. idoits guides judaism
+25. Palestine peace not apartheid
+26. Jews dont count
+27. no-nonsense quantum mechanics
+28. a students guide to maxwell's equations
+29. Alexander, child of a dream
+30. Parallax
+31. The martian
+32. The bible 
+33. The crisis of zionism
+34.  How to avoid a climate disaster
+35.   Scyth
+36. Tarkin 
+37. We should all be feminists
+38. not a scientist
+39. Converting Jews to Chirst
+40. 
