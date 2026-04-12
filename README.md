@@ -74,125 +74,126 @@ This repo is for keeping track of all the books I own, and have read to the best
 69. [ ] How to Invent Everything
 70. [x] How to Argue with a Racist
 71. [ ] Tarkin
-72. [x] Night Watch
-73. [x] Interview with the Vampire
-74. [ ] The Foundation Trilogy
-75. [ ] Frankenstein
-76. [x] A Wrinkle in Time, series
-77. [x] Scythe
-78. [x] The Lord of the Rings Series
-79. [x] A Game of Thrones Series
-80. [x] Ender's Game
-81. [x] The War of the Worlds
-82. [x] The Three-Body Problem Series
-83. [x] Bad Feminist
-84. [x] The Hornblower Series
-85. [x] Narrative of the Life of Frederick Douglass
-86. [x] City of Life, City of Death — Max Michelson
-87. [x] A Century of Dishonor
-88. [x] People Love Dead Jews
-89. [ ] Abolition Fanaticism in New York — Frederick Douglass
-90. [x] Abundance: What Progress Takes — Ezra Klein, Derek Thompson
-91. [ ] A Century of Dishonor — Helen Hunt Jackson
-92. [ ] Mein Kampf — Adolf Hitler
-93. [ ] A Full Life: Reflections at Ninety — Jimmy Carter
-94. [ ] A History of the Dora Camp — Michael J. Neufeld et al.
-95. [x] A Random Walk Down Wall Street — Burton G. Malkiel
-96. [ ] Are the Planets Inhabited? — E. Walter Maunder
-97. [ ] Astronomy for Amateurs
-98. [ ] Blindsight — Peter Watts
-99. [x] Leviathan Wakes — James S. A. Corey
-100. [x] City of Life, City of Death — Max Michelson
-101. [ ] Common Sense — Thomas Paine
-102. [x] Don’t Be Such a Scientist — Randy Olson
-103. [ ] Dungeon Crawler Carl — Matt Dinniman
-104. [ ] The Epic of Gilgamesh
-105. [ ] Frankenstein — Mary Shelley
-106. [ ] Ghetto Tragedies — Israel Zangwill
-107. [ ] History of Zionism, Vol. 1 — Nahum Sokolow
-108. [ ] History of Zionism, Vol. 2 — Nahum Sokolow
-109. [ ] IBM and the Holocaust — Edwin Black
-110. [x] Everything Is Tuberculosis — John Green
-111. [x] The Professor Is In — Karen Kelsky
-112. [ ] Les Misérables — Victor Hugo
-113. [ ] Memoirs of a Warsaw Ghetto Fighter — Simha Rotem
-114. [x] Men Who Hate Women — Laura Bates
-115. [ ] Ace the Data Science Interview — Nick Singh, Kevin Huo
-116. [x] On Writing Well — William Zinsser
-117. [ ] The Phantom of the Opera — Gaston Leroux
-118. [x] Project Hail Mary — Andy Weir
-119. [ ] Roots — Alex Haley
-120. [x] The Bogleheads’ Guide to Investing — Taylor Larimore et al.
-121. [ ] Ten Essays on Zionism and Judaism — Ahad Ha’am
-122. [ ] The Aeneid — Virgil
-123. [ ] The American Jew as Patriot, Soldier and Citizen — Simon Wolf
-124. [ ] The Anthropocene Reviewed — John Green
-125. [ ] The Art of War — Sun Tzu
-126. [x] The Bogleheads’ Guide to Retirement Planning — Taylor Larimore et al.
-127. [ ] The Communist Manifesto — Marx & Engels
-128. [ ] The Count of Monte Cristo — Alexandre Dumas
-129. [ ] The Fabric of Civilization — Virginia Postrel
-130. [ ] The First and the Last — Adolf Galland
-131. [ ] The Future of Astronomy — Edward C. Pickering
-132. [ ] The History of a Lie — Herman Bernstein
-133. [ ] The Histories — Herodotus
-134. [ ] The Iliad — Homer
-135. [ ] The International Jew — Henry Ford
-136. [ ] The Jewish State — Theodor Herzl
-137. [ ] The Last Consolation Vanished
-138. [ ] The Martyrs of Science
-139. [ ] The Odyssey — Homer
-140. [ ] Protocols of the Elders of Zion
-141. [x] There Is No Antimemetics Division — qntm
-142. [ ] The Republic — Plato
-143. [ ] The Uses of Astronomy
-144. [ ] The Wars of the Jews — Josephus
-145. [ ] The Wrong Kind of Jew — Hen Mazzig
-146. [ ] Three Addresses on Race Relations — Frederick Douglass
-147. [ ] Value(s): Building a Better World for All — Mark Carney
-148. [ ] Walden — Henry David Thoreau
-149. [ ] War and Peace — Leo Tolstoy
-150. [ ] What Iranians Want — Arash Azizi
-151. [x] A City on Mars — Kelly & Zach Weinersmith
-152. [ ] Cloud Atlas — David Mitchell
-153. [ ] Eureka Manifesto
-154. [x] The Richest Man in Babylon — George S. Clason
-155. [x] How Democracies Die — Levitsky & Ziblatt
-156. [x] Jewish Space Lasers — Mike Rothschild
-157. [x] The Smallest Lights in the Universe — Sara Seager
-158. [x] The Man Who Solved the Market — Gregory Zuckerman
-159. [x] Starstruck
-160. [x] The Millionaire Next Door — Stanley & Danko
-161. [ ] This Is Vegan Propaganda — Ed Winters
-162. [x] The Exceptions — Kate Zernike
-163. [x] A Long Walk to Freedom — Nelson Mandela
-164. [x] Ringworld — Larry Niven
-165. [x] Lucifer's Hammer — Larry Niven
-166. [x] The Mote in God's Eye — Larry Niven
-167. [x] The Moon Is a Harsh Mistress — Robert A. Heinlein
-168. [x] Science as a Candle in the Dark — Carl Sagan
-169. [x] Contact — Carl Sagan
-170. [x] Billions & Billions — Carl Sagan
-171. [x] Anne Frank
-172. [x] The Things They Carried
-173. [x] Night — Elie Wiesel
-174. [x] The Left Hand of Darkness
-175. [x] I Shall Not Hate
-176. [x] In This Place Together
-177. [x] How to Be an Antiracist
-178. [x] It Can Happen Here — ADL
-179. [x] The End of Everything (Astrophysically Speaking) – Katie Mack
-180. [ ] A Tale of Love and Darkness – Amos Oz
-181. [x] Man's search for meaning
-182. [x]  How to Find a Habitable Planet
-183. [x] Song of Achilles 
-184. [ ] the ethnic cleansing of Palestine
-185. [x] A brief history of everyone who ever lived
-186. [x] How to argue with a racist
-187. [x] The Uninhabitable Earth: Life After Warming
-188. [x] we have always been here, a queer Muslim memoir
-189. [x] Twilight of democracy, 
-190. [x] Lies my teacher told me
-191. [x] all quiet on the western front
-192. [x] The Disordered Cosmos, A Journey into Dark Matter, Spacetime, and Dreams Deferred
-193. [ ] 
+72. [ ] Night Watch
+73. [x] Guards Guards
+74. [x] Interview with the Vampire
+75. [ ] The Foundation Trilogy
+76. [ ] Frankenstein
+77. [x] A Wrinkle in Time, series
+78. [x] Scythe
+79. [x] The Lord of the Rings Series
+80. [x] A Game of Thrones Series
+81. [x] Ender's Game
+82. [x] The War of the Worlds
+83. [x] The Three-Body Problem Series
+84. [x] Bad Feminist
+85. [x] The Hornblower Series
+86. [x] Narrative of the Life of Frederick Douglass
+87. [x] City of Life, City of Death — Max Michelson
+88. [x] A Century of Dishonor
+89. [x] People Love Dead Jews
+90. [ ] Abolition Fanaticism in New York — Frederick Douglass
+91. [x] Abundance: What Progress Takes — Ezra Klein, Derek Thompson
+92. [ ] A Century of Dishonor — Helen Hunt Jackson
+93. [ ] Mein Kampf — Adolf Hitler
+94. [ ] A Full Life: Reflections at Ninety — Jimmy Carter
+95. [ ] A History of the Dora Camp — Michael J. Neufeld et al.
+96. [x] A Random Walk Down Wall Street — Burton G. Malkiel
+97. [ ] Are the Planets Inhabited? — E. Walter Maunder
+98. [ ] Astronomy for Amateurs
+99. [ ] Blindsight — Peter Watts
+100. [x] Leviathan Wakes — James S. A. Corey
+101. [x] City of Life, City of Death — Max Michelson
+102. [ ] Common Sense — Thomas Paine
+103. [x] Don’t Be Such a Scientist — Randy Olson
+104. [ ] Dungeon Crawler Carl — Matt Dinniman
+105. [ ] The Epic of Gilgamesh
+106. [ ] Frankenstein — Mary Shelley
+107. [ ] Ghetto Tragedies — Israel Zangwill
+108. [ ] History of Zionism, Vol. 1 — Nahum Sokolow
+109. [ ] History of Zionism, Vol. 2 — Nahum Sokolow
+110. [ ] IBM and the Holocaust — Edwin Black
+111. [x] Everything Is Tuberculosis — John Green
+112. [x] The Professor Is In — Karen Kelsky
+113. [ ] Les Misérables — Victor Hugo
+114. [ ] Memoirs of a Warsaw Ghetto Fighter — Simha Rotem
+115. [x] Men Who Hate Women — Laura Bates
+116. [ ] Ace the Data Science Interview — Nick Singh, Kevin Huo
+117. [x] On Writing Well — William Zinsser
+118. [ ] The Phantom of the Opera — Gaston Leroux
+119. [x] Project Hail Mary — Andy Weir
+120. [ ] Roots — Alex Haley
+121. [x] The Bogleheads’ Guide to Investing — Taylor Larimore et al.
+122. [ ] Ten Essays on Zionism and Judaism — Ahad Ha’am
+123. [ ] The Aeneid — Virgil
+124. [ ] The American Jew as Patriot, Soldier and Citizen — Simon Wolf
+125. [ ] The Anthropocene Reviewed — John Green
+126. [ ] The Art of War — Sun Tzu
+127. [x] The Bogleheads’ Guide to Retirement Planning — Taylor Larimore et al.
+128. [ ] The Communist Manifesto — Marx & Engels
+129. [ ] The Count of Monte Cristo — Alexandre Dumas
+130. [ ] The Fabric of Civilization — Virginia Postrel
+131. [ ] The First and the Last — Adolf Galland
+132. [ ] The Future of Astronomy — Edward C. Pickering
+133. [ ] The History of a Lie — Herman Bernstein
+134. [ ] The Histories — Herodotus
+135. [ ] The Iliad — Homer
+136. [ ] The International Jew — Henry Ford
+137. [ ] The Jewish State — Theodor Herzl
+138. [ ] The Last Consolation Vanished
+139. [ ] The Martyrs of Science
+140. [ ] The Odyssey — Homer
+141. [ ] Protocols of the Elders of Zion
+142. [x] There Is No Antimemetics Division — qntm
+143. [ ] The Republic — Plato
+144. [ ] The Uses of Astronomy
+145. [ ] The Wars of the Jews — Josephus
+146. [ ] The Wrong Kind of Jew — Hen Mazzig
+147. [ ] Three Addresses on Race Relations — Frederick Douglass
+148. [ ] Value(s): Building a Better World for All — Mark Carney
+149. [ ] Walden — Henry David Thoreau
+150. [ ] War and Peace — Leo Tolstoy
+151. [ ] What Iranians Want — Arash Azizi
+152. [x] A City on Mars — Kelly & Zach Weinersmith
+153. [ ] Cloud Atlas — David Mitchell
+154. [ ] Eureka Manifesto
+155. [x] The Richest Man in Babylon — George S. Clason
+156. [x] How Democracies Die — Levitsky & Ziblatt
+157. [x] Jewish Space Lasers — Mike Rothschild
+158. [x] The Smallest Lights in the Universe — Sara Seager
+159. [x] The Man Who Solved the Market — Gregory Zuckerman
+160. [x] Starstruck
+161. [x] The Millionaire Next Door — Stanley & Danko
+162. [ ] This Is Vegan Propaganda — Ed Winters
+163. [x] The Exceptions — Kate Zernike
+164. [x] A Long Walk to Freedom — Nelson Mandela
+165. [x] Ringworld — Larry Niven
+166. [x] Lucifer's Hammer — Larry Niven
+167. [x] The Mote in God's Eye — Larry Niven
+168. [x] The Moon Is a Harsh Mistress — Robert A. Heinlein
+169. [x] Science as a Candle in the Dark — Carl Sagan
+170. [x] Contact — Carl Sagan
+171. [x] Billions & Billions — Carl Sagan
+172. [x] Anne Frank
+173. [x] The Things They Carried
+174. [x] Night — Elie Wiesel
+175. [x] The Left Hand of Darkness
+176. [x] I Shall Not Hate
+177. [x] In This Place Together
+178. [x] How to Be an Antiracist
+179. [x] It Can Happen Here — ADL
+180. [x] The End of Everything (Astrophysically Speaking) – Katie Mack
+181. [ ] A Tale of Love and Darkness – Amos Oz
+182. [x] Man's search for meaning
+183. [x]  How to Find a Habitable Planet
+184. [x] Song of Achilles 
+185. [ ] the ethnic cleansing of Palestine
+186. [x] A brief history of everyone who ever lived
+187. [x] How to argue with a racist
+188. [x] The Uninhabitable Earth: Life After Warming
+189. [x] we have always been here, a queer Muslim memoir
+190. [x] Twilight of democracy, 
+191. [x] Lies my teacher told me
+192. [x] all quiet on the western front
+193. [x] The Disordered Cosmos, A Journey into Dark Matter, Spacetime, and Dreams Deferred
+194. [ ] 
