@@ -106,7 +106,7 @@ This repo is for keeping track of all the books I own, and have read to the best
 101. [x] City of Life, City of Death — Max Michelson
 102. [ ] Common Sense — Thomas Paine
 103. [x] Don’t Be Such a Scientist — Randy Olson
-104. [ ] Dungeon Crawler Carl — Matt Dinniman
+104. [x] Dungeon Crawler Carl — Matt Dinniman
 105. [ ] The Epic of Gilgamesh
 106. [ ] Frankenstein — Mary Shelley
 107. [ ] Ghetto Tragedies — Israel Zangwill
@@ -198,3 +198,5 @@ This repo is for keeping track of all the books I own, and have read to the best
 193. [x] The Disordered Cosmos, A Journey into Dark Matter, Spacetime, and Dreams Deferred
 194. [x] the fifth season
 195. [x] A handmaids tale. 
+196. [ ] the Narnia series
+197. [ ] Dinniman Matt ,- Dungeon Crawler Carl 02-Carls Doomsday Scenario 
