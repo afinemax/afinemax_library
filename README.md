@@ -210,6 +210,8 @@ This repo is for keeping track of all the books I own, and have read to the best
 205. [ ] Generation Kill 
 206. [ ] Writing Science - How to Write Papers That Get Cited and -- Schimel, Joshua;
 207. [ ] Building the cycling city
-208. [ ] escaping the housing trap, strong towns 
-209. [ ] walkable city
-210. [ ] 
+208. [ ] Escaping the housing trap, strong towns 
+209. [ ] Walkable city
+210. [ ] come as you are
+211. [ ] how to know a person
+212. [ ] 
