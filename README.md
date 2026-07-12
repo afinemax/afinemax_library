@@ -198,5 +198,18 @@ This repo is for keeping track of all the books I own, and have read to the best
 193. [x] The Disordered Cosmos, A Journey into Dark Matter, Spacetime, and Dreams Deferred
 194. [x] the fifth season
 195. [x] A handmaids tale. 
-196. [ ] the Narnia series
-197. [ ] Dinniman Matt ,- Dungeon Crawler Carl 02-Carls Doomsday Scenario 
+196. [x] the Narnia series
+197. [x] Dinniman Matt ,- Dungeon Crawler Carl 02-Carls Doomsday Scenario 
+198. [x] Dungeon Crawler Carl book 3
+199. [ ] Dungeon Crawler Carl book 4
+200. [ ] Safety Through Solidarity: A Radical Guide to Fighting Antisemitism
+201. [ ] Pale Blue Dot
+202. [ ] Here Where We Live Is Our Country: The Story of the Jewish Bund
+203. [ ]  WALKABLE CITY: How Downtown Can Save America, One Step at a Time
+204. [x] The things they carried
+205. [ ] Generation Kill 
+206. [ ] Writing Science - How to Write Papers That Get Cited and -- Schimel, Joshua;
+207. [ ] Building the cycling city
+208. [ ] escaping the housing trap, strong towns 
+209. [ ] walkable city
+210. [ ] 
