@@ -201,7 +201,7 @@ This repo is for keeping track of all the books I own, and have read to the best
 196. [x] the Narnia series
 197. [x] Dinniman Matt ,- Dungeon Crawler Carl 02-Carls Doomsday Scenario 
 198. [x] Dungeon Crawler Carl book 3
-199. [ ] Dungeon Crawler Carl book 4
+199. [x] Dungeon Crawler Carl book 4
 200. [ ] Safety Through Solidarity: A Radical Guide to Fighting Antisemitism
 201. [ ] Pale Blue Dot
 202. [ ] Here Where We Live Is Our Country: The Story of the Jewish Bund
@@ -214,4 +214,10 @@ This repo is for keeping track of all the books I own, and have read to the best
 209. [ ] Walkable city
 210. [ ] come as you are
 211. [ ] how to know a person
-212. [ ] 
+212. [x] Millionaire Expat
+213. [ ] The Butcher's Masquerade: Dungeon Crawler Carl Book 5
+214. [ ] Planet Money: A guide to the economic forces that shape your life
+215. [ ] The Story of CO2 is the story of everything 
+216. [ ] The best american Science and Nature writing edited by susan orlean
+217. [ ] Going Nuclear: How atomic energy will save the world 
+218. [ ] 
